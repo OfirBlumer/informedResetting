@@ -1,4 +1,4 @@
-The following files are used for running MetaDynamics with LAMMPS with SR and ISR
+The following files are used for running MetaDynamics with LAMMPS using SR and ISR
 
 normal_reset.py generates the files required for standard stochastic resetting
 
