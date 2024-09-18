@@ -1,7 +1,13 @@
-##The following files are used for running MetaDynamics with LAMMPS with SR and ISR
-##normal_reset.py generates the files required for standard stochastic resetting
-##conditions_final.py generates the files required for ISR 
-##poisson.py generates the poisson distribution used in resetting
-##The formats directory contains the generic input files for LAMMPS/Plumed
-##prepare_final.py is executed by normal_reset.py and conditions_final.py to generate the simulations files
-##Modifications can be made to the files in the formats directory to change the stopping criterion etc. While modifications can be made to normal_reset.py and conditions_final.py to run simulations with different resetting rates and conditions
+The following files are used for running MetaDynamics with LAMMPS with SR and ISR
+
+normal_reset.py generates the files required for standard stochastic resetting
+
+conditions_final.py generates the files required for ISR 
+
+poisson.py generates the poisson distribution used in resetting
+
+prepare_final.py is executed by normal_reset.py and conditions_final.py to generate the simulations files
+
+The formats directory contains the generic input files for LAMMPS/Plumed
+
+Modifications can be made to the files in the formats directory to change the stopping criterion etc. While modifications can be made to normal_reset.py and conditions_final.py to run simulations with different resetting rates and conditions
