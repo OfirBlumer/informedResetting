@@ -1,0 +1,4 @@
+Here are input files for simulations of chignolin in explicit water in GROMACS.
+The plumed.dat file provides an example for integrating Metadynamics and ISR in the simulation.
+The MyCommittor.cpp file should be included in the src/analysis directory of PLUMED on compilation,
+to use the custom committor required for Poisson ISR.
