@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+authors:
+- family-names: "Church"
+  given-names: "Jonathan Richard"
+- family-names: "Blumer"
+  given-names: "Ofir"
+- family-names: "Keidar"
+  given-names: "Tommer David"
+- family-names: "Leo"
+  given-names: "Ploutno"
+- family-names: "Reuveni"
+  given-names: "Shlomi"
+- family-names: "Hirshberg"
+  given-names: "Barak"
+title: "Supplementary files for 'Accelerating Molecular Dynamics through Informed Resetting'"
+date-released: 2022
+url: "https://github.com/Hirshberg-Lab/informedResetting"
